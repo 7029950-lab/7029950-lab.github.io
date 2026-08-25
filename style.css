@@ -52,7 +52,7 @@ h2 {
   line-height: 1.4;
 }
 h2 {
-  color: #e94560; /* bright accent */
+  color: #f1568a; /* bright accent */
 }
 
 .content p {
@@ -82,12 +82,12 @@ h2 {
 }
 
 #interests li {
-  color: #fa2a7a;
+  color: #f8619b;
   font-size: 1rem;
   font-weight: 600;
   padding: 10px 20px;
-  background: #fff;
-  border: 1px solid #ddd;
+  background: #fffdde;
+  border: 1px solid #f1568a;
   border-radius: 100px;
   transition:
     background 0.25s ease,
@@ -97,7 +97,7 @@ h2 {
 }
 
 #interests li:hover {
-  background: #000;
+  background: #f72a5d;
   color: #fff;
   border-color: #000;
   transform: translateY(-2px);
@@ -168,19 +168,19 @@ nav h1 {
   color: #fff;
 }
 nav {
-  background: #f2f2f5;
-  border-color: hsl(240, 37%, 91%);
+  background: #ffffe2;
+  border-color: hsl(340, 90%, 69%);
 }
 
 nav h1 {
-  color: #ff002b;
+  color: #f8619b;
 }
 
 .nav-li a {
-  color: #e61d38;
+  color: #f8619b;
 }
 
 .nav-li a:hover {
   background: #f04a65;
-  color: #fff;
+  color: #bbb1b1;
 }
